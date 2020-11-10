@@ -1,5 +1,11 @@
 # proyecto2
 
+09 de noviembre 2020
+
+Se realizan pruebas y se aplican los ajustes necesarios para optimizar el funcionamiento.
+
+----------------
+
 30 de octubre 2020
 
 Se considera los ajustes solicitados por el cliente para la base de datos en la integración de sistema.
